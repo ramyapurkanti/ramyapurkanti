@@ -1,6 +1,6 @@
 ✨Hi Github!✨
 
-I'm a data scientist with lots of experience in designing biological data analysis pipelines (sequence and imaging) to suit the scientific question. 
+I'm a data scientist who enjoys designing custom data analysis pipelines (sequence and imaging) to derive biological insights. 
 
 I love figuring out ways to visualize complex datasets to highlight the take-home message.
 
