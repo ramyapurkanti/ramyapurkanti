@@ -8,8 +8,6 @@ Ping me to know more!
 
 〰️〰️〰️〰️
 
-Twitter: https://twitter.com/RPurkanti
-
 LinkedIn: https://www.linkedin.com/in/ramyapurkanti/
 
 Google Scholar: https://scholar.google.com/citations?user=7bVzr2gAAAAJ&hl=en
